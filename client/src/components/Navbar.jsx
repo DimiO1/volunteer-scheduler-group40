@@ -5,6 +5,8 @@ export default function Navbar() {
         <Link to="/"> Opportunities </Link>
         <Link to="/register"> Register </Link>
         <Link to="/login"> Login </Link>
+        <Link to="/adminlogin"> Admin </Link>
+        <Link to="/admindash"> AdminDash </Link>
     </nav>
   )
 }
